@@ -1,0 +1,104 @@
+body {
+background-image: url(https://www.rxwallpaper.site/wp-content/uploads/download-largest-collection-of-hd-space-wallpapers-for-free-2-800x800.jpg);
+background-repeat: no-repeat;
+background-size: 1366px 768px
+}
+h1 {
+    color: grey;
+    text-align: center;
+    font-size: xx-large;
+}
+.navegacion {
+    width: 900px;
+    height: 50px;
+    border: 3px solid #000000;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    background-image: url(https://i.ytimg.com/vi/Uyn72T1OCkY/maxresdefault.jpg);
+    text-align: center;
+}
+.navegacion div {
+    width: 150px;
+    height: 20px;  
+    
+}
+.izquierdo {
+    float: left;
+    margin: auto;
+    height: 340px;
+    width: 200px;
+    
+}
+.info_i {
+    color: black;
+    font-size: smaller;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    border: 5px solid aquamarine;
+    margin: auto;
+    height: auto;
+    width: auto;
+    background-color: coral;
+}
+
+.info_i2 {
+    color: black;
+    font-size: smaller;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    border: 5px solid aquamarine;
+    margin: auto;
+    height: auto;
+    width: auto;
+    background-color: coral;
+    
+}
+
+.derecho {
+    float: right;
+    margin: auto;
+    height: 340px;
+    width: 200px;
+    background-color: coral;
+}
+
+.info_d {
+    border: 5px solid aquamarine;
+    margin: auto;
+    height: auto;
+    width: auto;
+    text-align: center;
+    font-size: medium;
+    
+}
+.info_d2 {
+    color: black;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    border: 5px solid aquamarine;
+    margin: auto;
+    height: auto;
+    width: auto;
+    background-color: coral;
+}
+
+
+.centro {
+    border: 5px solid grey;
+    margin: auto;
+    margin-top: 10px;
+    height: 500px;
+    width: 900px;
+    align-items: center;
+    background-image: url(https://www.tierraadentro.cultura.gob.mx/wp-content/uploads/2020/04/STScI-H-2010a-d-1280x720-e1587657740678.png);
+    background-repeat: no-repeat;
+    
+}
+.info3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
